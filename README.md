@@ -1,4 +1,4 @@
-# Übersicht der Beispiel zur Phonegap-Schulung
+# Übersicht der Beispiel zu PhoneGap
 
 ## Voraussetzung
 - Phonegap: 3.4.0
